@@ -1,6 +1,9 @@
 # Summary
 
 * [创建Orm引擎](chapter-01/README.md)
+    * [单库引擎](chapter-01/1.engine.md)
+    * [引擎组](chapter-01/2.engine_group.md)
+    * [引擎组策略](chapter-01/3.policy.md)
 * [定义表结构体](chapter-02/README.md)
     * [名称映射规则](chapter-02/1.mapping.md)
     * [前缀映射，后缀映射和缓存映射](chapter-02/2.prefix.md)
@@ -19,6 +22,7 @@
     * [查询条件方法](chapter-05/1.conditions.md)
     * [临时开关方法](chapter-05/2.overrides.md)
     * [Get方法](chapter-05/3.get.md)
+    * [Exist方法](chapter-05/10.exist.md)
     * [Find方法](chapter-05/4.find.md)
     * [Join的使用](chapter-05/5.join.md)
     * [Iterate方法](chapter-05/6.iterate.md)
